@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/olavo-carreira/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/olavomalainho"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </p>
 
@@ -36,26 +37,7 @@ I also keep my development skills active with small Python projects.
 
 ---
 
-### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Olavo-Carreira&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olavo-Carreira&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="42%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Olavo-Carreira&theme=dark&hide_border=true" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Olavo-Carreira&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Olavo-Carreira&icon=0&color=0" /></a>
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Olavo-Carreira/Olavo-Carreira/output/github-snake-dark.svg" />
